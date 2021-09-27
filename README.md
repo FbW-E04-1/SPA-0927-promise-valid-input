@@ -1,0 +1,1 @@
+# SPA-0927-promise-valid-input
